@@ -1,0 +1,43 @@
+{
+    "Car": "NSPS-152",
+    "CarOrigin": "164nsps152",
+    "Series": "",
+    "Title": "\u7a81\u3044\u3066\u3082\u7a81\u3044\u3066\u3082\u7a81\u304d\u305f\u308a\u306a\u3044\uff01\u6b32\u671b\u306e\u30cf\u30fc\u30c9\u30d4\u30b9\u30c8\u30f3\uff01\u7dcf\u96c6\u7de8",
+    "TitleZh": "\u6233\u4e0d\u523a\uff01\u6b32\u671b\u7684\u786c\u6d3b\u585e\uff01\u603b\u96c6\u7bc7",
+    "Plot": "\u6fc0\u3057\u904e\u304e\u308b\u30d4\u30b9\u30c8\u30f3\u306b\u9854\u3092\u6b6a\u307e\u305b\u611f\u3058\u307e\u304f\u308b\u5973\u305f\u3061\u3092\u6349\u3048\u305f\u30aa\u30e0\u30cb\u30d0\u30b9\u3002\u30d1\u30f3\u30d1\u30f3\u3068\u90e8\u5c4b\u4e2d\u306b\u9cf4\u308a\u97ff\u304f\u30a4\u30e4\u3089\u3057\u3044\u97f3\u3002\u7dcf\u52e2\uff11\uff18\u4eba\u306e\u30c9\u30b9\u30b1\u30d9\u5973\u304c\u5598\u304e\u307e\u304f\u308a\u30a4\u30ad\u307e\u304f\u308b\u3001\u3048\u3052\u3064\u306a\u3044\u30cf\u30fc\u30c9\uff26\uff35\uff23\uff2b\u3092\u305f\u3063\u3077\u308a\u53ce\u9332\uff01",
+    "PlotZh": "\u6355\u6349\u5230\u4e86\u56e0\u8fc7\u4e8e\u6fc0\u70c8\u7684\u6d3b\u585e\u800c\u611f\u5230\u8138\u90e8\u626d\u66f2\u7684\u5973\u4eba\u4eec\u7684\u96c6\u9526\u3002\u5728\u623f\u95f4\u91cc\u56de\u54cd\u7740\u4ee4\u4eba\u8ba8\u538c\u7684\u58f0\u97f3\u3002\u603b\u517118\u4e2a\u597d\u8272\u5973\u5b50\u6c14\u5598\u5401\u5401\uff0c\u6536\u5f55\u4e86\u6ee1\u6ee1\u7684\u8d85\u523a\u6fc0FUCK\uff01",
+    "Review": "",
+    "Release": "2012-02-25",
+    "Runtime": 127,
+    "Director": "\u306a\u304c\u3048",
+    "Studio": "\u30b5\u30a4\u30c9\u30d3\u30fc",
+    "Publisher": "\u306a\u304c\u3048STYLE",
+    "Score": 75,
+    "CoverDb": "https://c1.jdbstatic.com/covers/5e/5EK88.jpg",
+    "CoverLibrary": "",
+    "CoverBus": "cr9_b.jpg",
+    "CoverDmm": "http://pics.dmm.co.jp/mono/movie/adult/164nsps152/164nsps152pl.jpg",
+    "Cover321": "",
+    "Poster": "",
+    "Crop": "0.52625 1.42",
+    "JavLibrary": "javliodbsy",
+    "JavDb": "5EK88",
+    "JavBus": "NSPS-152",
+    "Jav321": "",
+    "Arzon": "982219",
+    "Genres": [
+        "\u7cbe\u9009\u7efc\u5408",
+        "\u5267\u60c5",
+        "\u719f\u5973"
+    ],
+    "Actors": [
+        "\u5927\u8d8a\u306f\u308b\u304b",
+        "\u4e2d\u68ee\u73b2\u5b50",
+        "\u5742\u7530\u7f8e\u5f71",
+        "\u62bc\u5207\u3042\u3084\u306e",
+        "\u9ed2\u7530\u30e6\u30ea"
+    ],
+    "Init": "2022-04-04 18:29:17",
+    "Modify": "2022-05-05 19:07:38",
+    "Version": "2022-04-26"
+}
